@@ -1,1 +1,3 @@
-# NN-DL-Assignment2-700740836
+# NN-DL-Assignment2
+Name: Ajay Mohan Reddy veluru
+Id:700740836
